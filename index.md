@@ -63,6 +63,7 @@ In future work, hybrid models (e.g., GARCH + machine learning) could be explored
 
 ## 📚 References
 
+
 * M4 Competition: [https://www.mcompetitions.unic.ac.cy/the-m4-competition/](https://www.mcompetitions.unic.ac.cy/the-m4-competition/)
 * Engle, R.F. (1982). Autoregressive Conditional Heteroskedasticity with Estimates of the Variance of UK Inflation.
 
